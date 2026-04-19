@@ -6,7 +6,7 @@
   "config_category": "census",
   "config_description": "Market-wide restaurant data for Lauderhill in the Sunshine State. Filtered by the Restaurants category group, providing business profiles, review counts, contact information, and competitive benchmarks. Refreshed weekly.",
   "config_name": "All Restaurants in Lauderhill, Florida, US",
-  "export_job_id": "9728a63e-693f-45f1-921a-cea5a1bbb030",
+  "export_job_id": "ad36905b-b57f-45d0-8b2d-485f7ceef450",
   "github_org": "Beamstation-Datasets",
   "id_short": 839306,
   "location_name": "Lauderhill",
@@ -15,8 +15,8 @@
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/839306/beamstation_839306_restaurants-us-fl_SAMPLE_DIST.csv",
   "sample_pct": 10.0,
   "sample_records": 15,
-  "sample_sha256": "83a50d42f37c4d0d7a1fa7c8ac25e2b81463b13f0ffdcd5bec226433884b6c7c",
-  "sample_size_bytes": 68922,
+  "sample_sha256": "184e4d8c87e878e7ffa686bc1b6fa517dccbd28cf9efa57159f4785cfc3eb138",
+  "sample_size_bytes": 56549,
   "total_records": 150,
-  "updated_at": "2026-04-09T14:35:18.412974+00:00"
+  "updated_at": "2026-04-16T15:57:07.932787+00:00"
 }
