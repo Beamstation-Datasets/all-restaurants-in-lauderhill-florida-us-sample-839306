@@ -1,6 +1,6 @@
 # All Restaurants in Lauderhill, Florida, US
 
-> Free BeamStation sample export with 8 rows and masked direct-contact fields.
+> Free BeamStation sample export with 16 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `839306` |
 | Location | Lauderhill |
 | Category | Restaurants |
-| Full dataset size | 85 records |
-| Free sample size | 8 records (9.41%) |
-| Last export | 2026-04-23T13:42:50.675604+00:00 |
+| Full dataset size | 162 records |
+| Free sample size | 16 records (9.88%) |
+| Last export | 2026-04-30T14:10:43.305929+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-lauderhill-florida-us-sample-839306/releases/download/sample-latest/beamstation_839306_restaurants-us-fl_SAMPLE_DIST.csv) |
 
 ## What is in this sample
