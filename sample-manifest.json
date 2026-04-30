@@ -1,12 +1,12 @@
 {
-  "export_job_id": "f19b4c78-3b14-40d3-88e7-31e82a9848fe",
+  "export_job_id": "7f4db5a9-e9a9-4b35-aa6a-f51bb1b12009",
   "id_short": 839306,
-  "published_at": "2026-04-23T19:41:26Z",
+  "published_at": "2026-04-30T19:35:23Z",
   "repo_name": "all-restaurants-in-lauderhill-florida-us-sample-839306",
   "sample_asset_name": "beamstation_839306_restaurants-us-fl_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/839306/beamstation_839306_restaurants-us-fl_SAMPLE_DIST.csv",
-  "sample_records": 8,
-  "sample_sha256": "04491f983f38a520196077e0e0158b1eda91faa1e12bdd7f7cda66c0b6514d8e",
-  "sample_size_bytes": 43635,
-  "total_records": 85
+  "sample_records": 16,
+  "sample_sha256": "c51c9b4b86a2f2d40c307ba7850192a87db673ca64b1f8ef7ecea8c26c4b2926",
+  "sample_size_bytes": 67705,
+  "total_records": 162
 }
